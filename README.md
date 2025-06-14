@@ -1,6 +1,5 @@
 ## Song SiHyeok
 
-M.S. Student in Mathematics @ Hanyang University 🧠  
 Interested in **Homomorphic Encryption**, **Secure AI**, and **Privacy-preserving ML**.
 
 ---
