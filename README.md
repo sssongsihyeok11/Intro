@@ -11,6 +11,10 @@ _Sept 2025 – Present_
 - Graduate Student under **Prof. Mi-Ran Kim**  
 - Research Area: Homomorphic Encryption, Secure AI
 
+<details> 
+  <summary>📖 Publications </summary> 
+</details>
+
 **B.S. in Information and Communication Engineering**, Inha University  
 _Mar 2019 – Feb 2025_ 
 
