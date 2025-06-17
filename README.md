@@ -2,7 +2,9 @@
 
 Interested in **Homomorphic Encryption**, **Secure AI**, and **Privacy-preserving ML**.
 
-![mazassumnida](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)
+[![Solved.ac Profile: yourbojusername](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)](https://solved.ac/profile/ssongsh98)
+
+
 
 ---
 
