@@ -33,3 +33,5 @@ _Mar 2019 – Feb 2025_
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 </details>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssongsh98)](https://solved.ac/ssongsh98)
