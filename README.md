@@ -34,4 +34,4 @@ _Mar 2019 – Feb 2025_
 </p>
 </details>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssongsh98)](https://solved.ac/ssongsh98)
+![mazassumnida](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)
