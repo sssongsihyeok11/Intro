@@ -2,6 +2,8 @@
 
 Interested in **Homomorphic Encryption**, **Secure AI**, and **Privacy-preserving ML**.
 
+![mazassumnida](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)
+
 ---
 
 ### 🎓 Education
@@ -33,5 +35,3 @@ _Mar 2019 – Feb 2025_
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 </details>
-
-![mazassumnida](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)
