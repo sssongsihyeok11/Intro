@@ -1,6 +1,6 @@
 ## Song SiHyeok
 
-Interested in **Homomorphic Encryption**, **Secure AI**, and **Privacy-preserving ML**.
+Interested in **Homomorphic Encryption**, **Privacy-preserving Machine Learning**.
 
 [![Solved.ac Profile: yourbojusername](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssongsh98)](https://solved.ac/profile/ssongsh98)
 
@@ -13,7 +13,7 @@ Interested in **Homomorphic Encryption**, **Secure AI**, and **Privacy-preservin
 **M.S. in Mathematics**, Hanyang University  
 _Sept 2025 – Present_  
 - Graduate Student under **Prof. Mi-Ran Kim**  
-- Research Area: Homomorphic Encryption, Secure AI
+- Research Area: Homomorphic Encryption, Privacy-preserving Machine Learning
 
 <details> 
   <summary>📖 Publications </summary> 
