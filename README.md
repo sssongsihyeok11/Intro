@@ -12,7 +12,7 @@ Interested in **Homomorphic Encryption**, **Privacy-preserving Machine Learning*
 
 **M.S. in Mathematics**, Hanyang University  
 _Sept 2025 – Present_
-- Cumulative GPA 4.25/4.5
+- Cumulative GPA 4.00/4.5
 - Graduate Student under **Prof. Mi-Ran Kim**  
 - Research Area: Homomorphic Encryption, Privacy-preserving Machine Learning
 
